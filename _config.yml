@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaole(Charles) Han | Ph.D."
+title                    : "Xiaole (Charles) Han | Ph.D."
 title_separator          : "-"
 name                     : &name "Dr.Xiaole(Charles) Han"
 description              : &description "personal description"
