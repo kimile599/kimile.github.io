@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-#About Me
-#======
+About Me
+======
 I am currently a postdoctoral researcher, working with Dr [Lin Shen](http://www.cee.hawaii.edu/faculty-staff-main-2/2-faculty/shen/), in the Geopolymer and Sustainable Concrete team of the Civil and Environmental Engineering Department, University of Hawaii at Manoa (UHM). My work involves developing innovative binder system for hash environment and tropical island scenarios. Besides, I am developing an Alkali-Activated Concrete mix design algorithm based on our previous database. 
 
 Prior to my postdoctoral position, I finished my dissertation "Applications of innovative building material and computer vision methods in geotechnical engineering" and completed my Ph.D. degree in Geotechnical Engineering under Dr. [Ningjun Jiang](https://scholar.google.com/citations?user=SZ1lgQUAAAAJ&hl=en&oi=ao). He is now a full professor in Institute of Geotechnical Engineering of Southeast University, China.
