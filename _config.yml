@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaole(Charles) Han | Ph.D. in Geotechnical Engineering"
+title                    : "Xiaole(Charles) Han | Ph.D."
 title_separator          : "-"
 name                     : &name "Dr.Xiaole(Charles) Han"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Xiaole Han"
+  name             : "Dr. Xiaole (Charles) Han"
   avatar           : "profile.png"
-  bio              : "Ph.D. in Geotechnical Engineering in University of Hawaii at Manoa"
+  bio              : "Ph.D. in Geotechnical Engineering in University of Hawaii at Manoa (UHM)"
   location         : "Honolulu, HI, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sAyzfVQAAAAJ&hl=en"
-  email            :
+  email            : "xiaole6@hawaii.edu"
   researchgate     :  "https://www.researchgate.net/profile/Xiaole-Han"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
