@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Xiaole (Charles) Han"
   avatar           : "profile.png"
-  bio              : "Ph.D. in Geotechnical Engineering in University of Hawaii at Manoa (UHM)"
+  bio              : "Ph.D. in Geotechnical Engineering <br> University of Hawaii at Manoa (UHM)"
   location         : "Honolulu, HI, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sAyzfVQAAAAJ&hl=en"
   email            : "xiaole6@hawaii.edu"
   researchgate     :  "https://www.researchgate.net/profile/Xiaole-Han"
