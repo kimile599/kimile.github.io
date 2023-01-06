@@ -8,10 +8,10 @@ venue: "University of Hawaii at Manoa, Civil and Environmental Engineering Depar
 location: "Honolulu, USA"
 ---
 
-Teaching Assistant, CEE 355-Geotechnical (I), 2017 Fall, Lecturer: Dr Ningjun Jiang <br>
-Teaching Assistant, CEE 355-Geotechnical (I), 2018 Fall, Lecturer: Dr Ningjun Jiang <br>
-Teaching Assistant, CEE 355-Geotechnical (I), 2019 Spring, Lecturer: Dr Horst G. Brandes <br>
-Teaching Assistant, CEE 355-Geotechnical (I), 2019 Fall, Lecturer: Dr Phillip S.K. Ooi <br>
+Teaching Assistant, CEE 355-Geotechnical (I), Fall 2017, Lecturer: Dr Ningjun Jiang <br>
+Teaching Assistant, CEE 355-Geotechnical (I), Fall 2018, Lecturer: Dr Ningjun Jiang <br>
+Teaching Assistant, CEE 355-Geotechnical (I), Spring 2019, Lecturer: Dr Horst G. Brandes <br>
+Teaching Assistant, CEE 355-Geotechnical (I), Fall 2019, Lecturer: Dr Phillip S.K. Ooi <br>
 
 
 Heading 1

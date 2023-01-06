@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "Honolulu, USA"
 ---
 
-Lecturer of CEE 270-Applied Mechanics (I) for Spring 2020
+CEE 270-Applied Mechanics (I) for Spring 2020
 
 Heading 1
 ======
