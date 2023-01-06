@@ -5,10 +5,10 @@ type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching
 venue: "University of Hawaii at Manoa, Civil and Environmental Engineering Department"
 date: 2020-01-01
-location: "City, Country"
+location: "Honolulu, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lecturer of CEE 270-Applied Mechanics I
 
 Heading 1
 ======
