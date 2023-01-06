@@ -15,5 +15,5 @@ Prior to my postdoctoral position, I finished my dissertation "Applications of i
 Before came to the United States, I obtained my Master degree in Mining Engineering of China University of Mining and Technology (CUMT). My supervisor was Professor [Jixiong Zhang](https://www.researchgate.net/profile/Jixiong-Zhang), who served as vice president of CUMT. I earned my Bachelor degree in mining engineering from [Sun Yueqi Honors College](http://syq.cumt.edu.cn/) of CUMT. 
 
 # Curriculum Vitae 
-[Xiaole_Han_CV [PDF]]()(updated on Jan, 2023)
+[Xiaole_Han_CV [PDF]]([Resume_Xiaole Han_PhD_UHM.pdf](..%2F..%2F..%2F..%2FOn-Going%2F1_US_jobs%2FPh.D_CV%2FResume_Xiaole%20Han_PhD_UHM.pdf))(updated on Jan, 2023)
 
