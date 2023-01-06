@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching undergraduate course"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/2020-spring-teaching
+venue: "University of Hawaii at Manoa, Civil and Environmental Engineering Department"
+date: 2020-01-01
 location: "City, Country"
 ---
 
