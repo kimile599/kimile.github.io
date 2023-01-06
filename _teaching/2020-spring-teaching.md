@@ -9,12 +9,3 @@ location: "Honolulu, USA"
 ---
 
 CEE 270-Applied Mechanics (I) for Spring 2020
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
