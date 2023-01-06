@@ -1,5 +1,5 @@
 ---
-title: "Teaching undergraduate course"
+title: "Undergraduate course"
 collection: teaching
 type: "Lecturer"
 permalink: /teaching/2020-spring-teaching
