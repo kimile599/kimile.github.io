@@ -5,16 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+You can find my latest articles on my [Google Scholar](https://scholar.google.com/citations?user=sAyzfVQAAAAJ&hl=en) profile.
 
 ## Journal papers
 *    **Han, X. L.**, Jiang, N.-J., Hata, T., Choi, J., Du, Y.-J., & Wang, Y.-J., (2023). Deep learning based approach for automated characterization of large marine microplastic particles. Marine Environmental Research. 105829. https://doi:10.1016/j.marenvres.2022.105829
