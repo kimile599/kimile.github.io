@@ -17,4 +17,4 @@ The identification of clayey soil desiccation cracks is an important practical i
 ## Video results
 ![Crackvideo.gif](https://kimile599.github.io/images/Crackvideo.gif)
 
-![crackratio.gif](..%2Fimages%2Fcrackratio.gif)
+![crackratio.gif](https://kimile599.github.io/images/crackratio.gif)
