@@ -13,6 +13,6 @@ The identification of clayey soil desiccation cracks is an important practical i
 ### Instance segmentation
 ![Crack result2.png](https://kimile599.github.io/images/Crack result2.png) ![Crack result3.png](https://kimile599.github.io/images/Crack result3.png)
 ### Instance statistics
-![Crack result1.jpg](https://kimile599.github.io/images/Crack result1.png)
+![Crack result1.jpg](https://kimile599.github.io/images/Crack result1.jpg)
 ## Video results
 ![Crackvideo.gif](https://kimile599.github.io/images/Crackvideo.gif)
