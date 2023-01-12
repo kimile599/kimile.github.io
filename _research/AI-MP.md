@@ -8,7 +8,9 @@ permalink: /research/AI-MP
 ![MPresult2.png](https://kimile599.github.io/images/MPresult2.png)
 
 The rapidly growing concern of marine microplastic pollution has drawn attention globally. <Br>
-![MPhawaii.png](https://kimile599.github.io/images/MPhawaii.png)
+
+![MPhawaii.png](https://kimile599.github.io/images/MPhawaii.png)<Br>
+
 Microplastic particles are normally subjected to visual characterization before more sophisticated chemical analyses. However, the misidentification rate of current visual inspection approaches remains high.<br>
 
 ## Preliminary Results

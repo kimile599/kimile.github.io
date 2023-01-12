@@ -9,15 +9,9 @@ Coral sand is widely encountered in coastal areas of tropical and subtropical re
 ### Large scale
 #### Building inspection
 
-<div style="text-align: center">
-<img src="https://kimile599.github.io/images/holmeshall.png"/>
-</div>
-
+![holmeshall.png](https://kimile599.github.io/images/holmeshall.png)
 #### Coastal erosion inspection
-
-<div style="text-align: center">
-<img src="https://kimile599.github.io/images/coastalerosion.png"/>
-</div>
+![coastalerosion.png](https://kimile599.github.io/images/coastalerosion.png)
 
 ### Small scale
 #### Concrete column reconstruction
