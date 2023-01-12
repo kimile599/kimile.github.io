@@ -3,8 +3,8 @@ title: "Large Marine Microplastics(MPs) Characterization with Deep Learning"
 collection: research
 permalink: /research/AI-MP
 ---
-## Research Background
 
+## Research Background
 ![MPresult2.png](https://kimile599.github.io/images/MPresult2.png)
 
 The rapidly growing concern of marine microplastic pollution has drawn attention globally. <Br>
