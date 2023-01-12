@@ -14,6 +14,7 @@ Coral sand is widely encountered in coastal areas of tropical and subtropical re
 ## Preliminary Results
 Results show that adding a moderate amount of biochar in AAS could improve soil strength, elastic modulus, and water holding capacity by up to 20%, 70%, and 30%, respectively. Moreover, the addition of biochar in AAS had a marginal effect on the sulfate resistance of the stabilized sand, especially at high biochar content. However, the resistance of the AAS stabilized sand to wet-dry cycles slightly deteriorated with the addition of biochar. Based on these observations, a conceptual model showing biochar-AAS-sand interactions was proposed, in which biochar served as an internal curing agent, micro-reinforcer, and mechanically weak point.
 ### Proposed conceptual model
+
 <div style="text-align: center">
 <img src="https://kimile599.github.io/images/GGBSmodel.png"/>
 </div>
