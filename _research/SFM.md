@@ -8,16 +8,22 @@ Coral sand is widely encountered in coastal areas of tropical and subtropical re
 ## Preliminary Results
 ### Large scale
 #### Building inspection
-![holmeshall.png](https://kimile599.github.io/images/holmeshall.png#pic_center)
+<div style="text-align: center">
+<img src="https://kimile599.github.io/images/holmeshall.png"/>
+</div>
+
 #### Coastal erosion inspection
-![coastal erosion.png](https://kimile599.github.io/images/coastalerosion.png#pic_center )
+<div style="text-align: center">
+<img src="https://kimile599.github.io/images/coastalerosion.png"/>
+</div>
+
 ### Small scale
 #### Concrete column reconstruction
-![column unrolling.gif](https://kimile599.github.io/images/columnunrolling.gif#pic_center)
+![column unrolling.gif](https://kimile599.github.io/images/columnunrolling.gif)
 #### Clay crack reconstruction
-![Ptcrack1.png](https://kimile599.github.io/images/Ptcrack1.png#pic_center)
+![Ptcrack1.png](https://kimile599.github.io/images/Ptcrack1.png)
 
 ##### Point cloud 
-![Ptcrack.png](https://kimile599.github.io/images/Ptcrack.png#pic_center)
+![Ptcrack.png](https://kimile599.github.io/images/Ptcrack.png)
 ##### Profile extraction
-![Ptprofile.png](https://kimile599.github.io/images/Ptprofile.png#pic_center)
+![Ptprofile.png](https://kimile599.github.io/images/Ptprofile.png)
